@@ -14,7 +14,7 @@
     border-right:256px solid transparent;
     border-bottom:256px solid transparent;
     border-top: 256px solid #99CC33;
-    transform: rotate(180deg) translate(-484px,-315px);
+    transform: rotate(360deg) translate(102px,224px);
     transition: transform 2s;
 }  
 
@@ -23,7 +23,7 @@
     height:128px;
     background:#6666CC;
     transform:skew(-45deg);
-    transform: rotate(0deg) skew(-45deg) translate(287px,59px);
+    transform: rotate(135deg) skew(-45deg) translate(-503px,-539px);
     transition: transform 2s;
 }
 
@@ -31,7 +31,7 @@
     height: 181px;
     width: 181px;
     background: #FF6666;
-    transform: rotate(45deg) translate(23px,60px);
+    transform: rotate(0deg) translate(356px,225px);
     transition: transform 2s;
 }
 
@@ -42,7 +42,7 @@
     border-top: 128px solid #FF9933;
     border-left-width: 128px;
     border-right-width: 128px;
-    transform: rotate(0deg) translate(101px,187px);
+    transform: rotate(225deg) translate(-794px,-35px);
     transition: transform 2s;
 }
 
@@ -50,7 +50,7 @@
     border: 256px solid transparent;
     border-color: transparent #FFCC00 transparent transparent;
     border-width: 256px;
-    transform: rotate(315deg) translate(-212px,-128px);
+    transform: rotate(315deg) translate(-420px,-101px);
     transition: transform 2s;
 }
 
@@ -61,7 +61,7 @@
     border-left: 128px solid #3399FF;
     border-bottom-width: 128px;
     border-top-width: 128px;
-    transform: rotate(0deg) translate(484px,60px);
+    transform: rotate(225deg) translate(-668px,92px);
     transition: transform 2s;
 }
 
@@ -69,7 +69,7 @@
     border-right:256px solid transparent;
     border-left:256px solid transparent;
     border-bottom:256px solid #33CC66;
-    transform: rotate(315deg) translate(-391px,310px);
+    transform: rotate(135deg) translate(-604px,-668px);
     transition: transform 2s;
 }
 
